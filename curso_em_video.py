@@ -13,8 +13,8 @@ Original file is located at
 # O python é uma liguagem dinamica, ou seja, você não amarra uma variável, porem ele consegue interpretar varias variaveis ele pode ser classificado como uma variavel fortemente tipada e dinamicamente tipada
 
 #Int
- a = 5
- b = 4 
+a = 5
+b = 4 
 print(a+b)
 
 #String
@@ -83,8 +83,8 @@ compromentimento_do_salario
 """
 
 a = 3 
- a = a + 7
- print(a)
+a = a + 7
+print(a)
 
 #a = 5 (subistituindo o valor)
 a += 5 #(acresentando o valor) # a = a + 5 
@@ -756,3 +756,4 @@ c1
 
 c2 <= c1
 
+"""# Intepolação"""
