@@ -665,9 +665,9 @@ tupla[0]
 #tupla [0] = 'novo' /// Não suporta atribuição de item
 
 cores = ('amarelo', 'azul', 'vermelho', 'branco')
- cores[0]
- cores[1:]
- cores[-1]
+cores[0]
+cores[1:]
+cores[-1]
 
 cores.index('amarelo')
 
